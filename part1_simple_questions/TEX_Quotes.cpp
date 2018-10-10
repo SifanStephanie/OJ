@@ -3,8 +3,8 @@
 //#define TEST
 int main() {
     #ifdef TEST
-    freopen("/Users/Veronique/ClionProjects/oj/data.in","r",stdin);
-    freopen("/Users/Veronique/ClionProjects/oj/data.out","w",stdout);
+    freopen("data.in","r",stdin);
+    freopen("data.out","w",stdout);
     #endif
     bool first=true;
     int c;
