@@ -8,4 +8,5 @@
 |         |  Hanxin       | Iterative| easy|
 | [ZOJ-2736](https://vjudge.net/problem/ZOJ-2736)| Daffodil number | Constant  | easy| 
 | [UVa-272](https://vjudge.net/problem/UVA-272)| TEX Quotes | Traverse | easy|
-| [UVa-401](https://vjudge.net/problem/UVA-401) | Palindromes | Brute Force | easy |
+| [UVa-401](https://vjudge.net/problem/UVA-401) | Palindromes | Traverse | easy |
+| [UVa-725](https://vjudge.net/problem/UVA-725) | Division | Brute Force | easy|
