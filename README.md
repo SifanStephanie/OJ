@@ -3,11 +3,11 @@
 
 ## probelms
 
-| #       |      Name     |  Method  |  Time(ms)   |  Other
+| #       |      Name     |  Time(ms)  |  Method   |  Other
 |:-------:|---------------|:----------:|:-------------:|--------
-|         |  Hanxin       | Iterative|                  | easy|
-| [ZOJ-2736](https://vjudge.net/problem/ZOJ-2736)| Daffodil number | Constant  | easy| 
-| [UVa-272](https://vjudge.net/problem/UVA-272)| TEX Quotes | Traverse | easy|
-| [UVa-401](https://vjudge.net/problem/UVA-401) | Palindromes | Traverse | easy |
-| [UVa-725](https://vjudge.net/problem/UVA-725) | Division | Brute Force | easy|
-| [UVa-1339](https://vjudge.net/problem/UVA-1339) | Ancient Cipher | Traverse |easy|
+|         |  Hanxin       |     |  Iterative     | easy|
+| [ZOJ-2736](https://vjudge.net/problem/ZOJ-2736)| Daffodil number| 0 | Constant  | easy| 
+| [UVa-272](https://vjudge.net/problem/UVA-272)| TEX Quotes | 0 | Traverse | easy|
+| [UVa-401](https://vjudge.net/problem/UVA-401) | Palindromes | 0 | Traverse | easy |
+| [UVa-725](https://vjudge.net/problem/UVA-725) | Division | 330 | Brute Force | easy|
+| [UVa-1339](https://vjudge.net/problem/UVA-1339) | Ancient Cipher | 0 | Traverse |easy|
