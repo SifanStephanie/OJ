@@ -12,3 +12,4 @@
 | [UVa-725](https://vjudge.net/problem/UVA-725) | Division | 330 | Brute Force | easy|
 | [UVa-1339](https://vjudge.net/problem/UVA-1339) | Ancient Cipher | 0 | Traverse |easy|
 | [UVa-489](https://vjudge.net/problem/UVA-489) | HangmanJudge | 30 | Traverse |easy|
+| [UVa-](https://vjudge.net/problem/UVA-524) | Prime Ring Problem | 120 | Backtracking |easy|
