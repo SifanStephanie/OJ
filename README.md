@@ -18,3 +18,4 @@
 | [UVa-524](https://vjudge.net/problem/UVA-524) | Prime Ring Problem | 120 | Backtracking |medium|
 | [UVa-129](https://vjudge.net/problem/UVA-129) | Krypton Factor | 0 | Backtracking |medium|
 | [UVa-514](https://vjudge.net/problem/UVA-514) | Rails | 30 | Backtracking |medium|
+| [UVa-10305](https://vjudge.net/problem/UVA-10305) | Odering Tasks | 0 | Graph DFS (white-black-gray tricks) |medium|
